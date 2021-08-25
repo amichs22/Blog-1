@@ -3,7 +3,7 @@
 <html>
   
 <main>
-<h1>1st Day Out</h>
+<h1 id="top">1st Day Out</h>
 <p>This is my first day learning how to code! I have only done like 4 modules on FFC, but so far I like it. LMAO, let's see how long I keep this same energy. </p>
 </main>
 
@@ -43,6 +43,10 @@
     <button type="submit">submit</button>
   -->
   
-  
+  <p>More things that I learned how to do yesterday:</p>
+  <ol>
+    <li>Here is a beautiful <a target="_blank" href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.self.com%2Fphotos%2F5ea9f52ea469834e6f5489e6%2F1%3A1%2Fw_3204%2Ch_3204%2Cc_limit%2Fpeony_flowers_bouquet.jpg&imgrefurl=https%3A%2F%2Fwww.self.com%2Fgallery%2Fbest-flower-delivery-services&tbnid=EoRL58kjG6GK4M&vet=12ahUKEwiv0dzotczyAhWOo3IEHeCaAVUQMygGegUIARC1Ag..i&docid=p3kx7Qq6hJMZvM&w=3204&h=3204&q=flowers&ved=2ahUKEwiv0dzotczyAhWOo3IEHeCaAVUQMygGegUIARC1Ag">flower that I thought was nice.</a></li>
+    <li><img src="https://www.gannett-cdn.com/presto/2020/06/12/PPHX/e7207da9-6fbe-467b-b63e-ac44e95db582-BobsBurgers_2019_KeyPoses_Bob_1.jpg?crop=3356,1888,x0,y480&width=3200&height=1801&format=pjpg&auto=webp" alt="A picture of Bob from Bob's Burgers"></li>
+    <li><a href="#top">Jump to top of the page</a></li>    
   
 </html>
