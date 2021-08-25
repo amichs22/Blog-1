@@ -1,4 +1,7 @@
 # Blog-1
+<!DOCTYPE html>
+<html>
+  
 <main>
 <h1>1st Day Out</h>
 <p>This is my first day learning how to code! I have only done like 4 modules on FFC, but so far I like it. LMAO, let's see how long I keep this same energy. </p>
@@ -18,3 +21,28 @@
 <h4>My blog looks super disorganized bc I haven't really learned how to organize things nicely. Don't judge!</h4>
 <h5>Anyway, time to get back on that grind</h5>
 <p>Peace out!</p>
+  
+<h2>Day 2</h2>
+  <p>Things that I learned to do yesterday:</p>
+  <ul>
+    <li>code lol</li>
+    <li>make an undordered list</li>
+    <li>make an ordered list</li>
+    <li>plenty of other things that I am probably forgetting</li>
+  </ul> 
+  
+  <!--
+  <p>More things that I learned below<p>
+
+    <label for="love">
+      <input id="love" value="love" type="radio" name="love-hate">Love
+    </label>  
+    <label for="hate">
+      <input id="hate" value="hate" type="radio" name="love-hate">Hate
+    </label> 
+    <button type="submit">submit</button>
+  -->
+  
+  
+  
+</html>
