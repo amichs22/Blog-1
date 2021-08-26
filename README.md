@@ -48,5 +48,21 @@
     <li>Here is a beautiful <a target="_blank" href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.self.com%2Fphotos%2F5ea9f52ea469834e6f5489e6%2F1%3A1%2Fw_3204%2Ch_3204%2Cc_limit%2Fpeony_flowers_bouquet.jpg&imgrefurl=https%3A%2F%2Fwww.self.com%2Fgallery%2Fbest-flower-delivery-services&tbnid=EoRL58kjG6GK4M&vet=12ahUKEwiv0dzotczyAhWOo3IEHeCaAVUQMygGegUIARC1Ag..i&docid=p3kx7Qq6hJMZvM&w=3204&h=3204&q=flowers&ved=2ahUKEwiv0dzotczyAhWOo3IEHeCaAVUQMygGegUIARC1Ag">flower that I thought was nice.</a></li>
     <li><img src="https://www.gannett-cdn.com/presto/2020/06/12/PPHX/e7207da9-6fbe-467b-b63e-ac44e95db582-BobsBurgers_2019_KeyPoses_Bob_1.jpg?crop=3356,1888,x0,y480&width=3200&height=1801&format=pjpg&auto=webp" alt="A picture of Bob from Bob's Burgers"></li>
     <li><a href="#top">Jump to top of the page</a></li>    
+  </ol>
+   
+    
+<h2>Day 3</h2>
+  <p>Haven't done much actual coding today. I have been working thru the introductions on Project Odin. That's taking me quite a while because I am trying to go through all of the addtional resources as best as I can. So far, that has included:</p>
+  <ol>
+    <li>additional readings</li>
+    <li>listing to podcasts</li>
+    <li>watching Youtube videos</li>
+  </ol>
+  
+  <p>Wow! I am actually super excited right now. I couldn't understand why I was having a formatting issue everytime that I would look at the preview for this blog. I kept changing things that I thought might fix the issue, but those didn't work. I finally figured out that I didn't include a closing tag for my ordered list from the previous day. When I fixed that, it fixed my formatting issue right away! It's something small, but I am glad that I was able to look thru my code (even tho it's hella simple and primitive)and fix the issue by myself.</p>
+  <p> I'm learning all about http right now. It was an additional resource available on Project Odin. It's actually really interesting to finally understand things that I use everyday like web page, web browser, http, network, internet, URL, etc... That being said, I have a headache trying to understand what I'm currently reading about http lmao. I'm currently reading about get and post requests. It's kind of a convuluted topic, but I am doing my best to understand it. Not sure how well I am doing with all of that, but I guess just showing up and showing initiative is half the battle.</p>
+  
+  
+  
   
 </html>
