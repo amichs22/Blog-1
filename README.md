@@ -68,5 +68,8 @@
   <p> On a brighter note, here is a picture of a <a target="_blank" href="https://www.davpetlovers.com/wp-content/uploads/2020/04/IMG_8917-1.jpg?v=1597127926" alt ="Cute puppy sticking its tongue out"> cute puppy.</a> </p>
   <a href="#top">Jump to the top of the page from here</a>
   
+  <h2> Day 5 and 6</h2>
+  <p> Didn't do much work today. Actually, I didn't do any work today. I've been spending the past few days working on coding at weird hours of the night, and I felt like I needed a break this weekend. Weirdly, I missed coding though. Pretty shocked about that. I still haven't figured out if this is something I would be good at. I hope so, but you honestly never know until you're really in it. I'm nervous but excited to get to the firtst project on TOP. Not sure when that will be, but I really am looking forward to it. </p>
+  
   
 </html>
